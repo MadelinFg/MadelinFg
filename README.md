@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadelinFg
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning React JS, Photoshop and Illustrator
+- 🌱 I’m currently learning Svelte and Astro
 - 💞️ I’m looking to collaborate on international projects
 - 📫 How to reach me: madelinfg@gmail.com 
 
